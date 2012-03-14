@@ -1,0 +1,35 @@
+{
+  "name": "barkeep",
+  "preferGlobal": "false",
+  "version": "0.0.1",
+  "author": "Flite, Inc. <support@flite.com>",
+  "description": "a simple collection of common javascript build tasks",
+  "contributors": [ 
+    {
+      "name": "Clay Smith",
+      "email": "clay@flite.com"
+    } 
+  ],
+  "scripts": {
+    "test": "vows --spec --isolate"
+  },
+  "main": "./lib/barkeep",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flite/barkeep.git"
+  },
+  "keywords": [
+    "build",
+    "continuous integration",
+  ],
+  "dependencies" : {
+  },
+  "noAnalyze": true,
+  "devDependencies": {
+    "vows"    :  "0.5.x",
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
