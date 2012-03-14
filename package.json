@@ -1,7 +1,7 @@
 {
   "name": "barkeep",
   "preferGlobal": "false",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Flite, Inc. <support@flite.com>",
   "description": "a simple collection of common javascript build tasks",
   "contributors": [ 
