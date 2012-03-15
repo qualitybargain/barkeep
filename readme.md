@@ -1,4 +1,4 @@
-barkeep
+barkeep [![Build Status](https://secure.travis-ci.org/flite/barkeep.png)](http://travis-ci.org/flite/barkeep)
 ===
 
 <img src="http://bit.ly/wAqCqY" alt="Barkeep" title="Barkeep" height="336" width="535"/>
