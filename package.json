@@ -1,7 +1,7 @@
 {
   "name": "barkeep",
   "preferGlobal": "false",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "Flite, Inc. <support@flite.com>",
   "description": "a simple collection of common javascript build tasks",
   "contributors": [ 
@@ -23,7 +23,8 @@
     "continuous integration"
   ],
   "dependencies" : {
-    "glob" : ">=3.1.6"
+    "glob" : ">=3.1.6",
+    "docco" : "*"
   },
   "noAnalyze": true,
   "devDependencies": {
