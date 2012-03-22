@@ -1,7 +1,7 @@
 var vows = require('vows'),
 assert = require('assert');
 
-var Barkeep = require('../lib/barkeep').Barkeep;
+var Barkeep = require('../lib/barkeep');
 
 var barkeep = new Barkeep();
 
